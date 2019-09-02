@@ -4,11 +4,15 @@
     <property name="created">2016-11-17T13:00:09</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.2.2.0.0</property>
-    <property name="modified">2019-09-02T13:57:16</property>
+    <property name="modified">2019-09-02T13:59:24</property>
     <property name="originalScheme">tritanomaly-tritanopia-light</property>
   </metaInfo>
-  <option name="CONSOLE_FONT_NAME" value="Hack Nerd Font" />
-  <option name="CONSOLE_LINE_SPACING" value="1.2" />
+  <option name="LINE_SPACING" value="1.2" />
+  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_NAME" value="Fira Code" />
+  <option name="EDITOR_LIGATURES" value="true" />
+  <option name="CONSOLE_FONT_NAME" value="Fira Code" />
+  <option name="CONSOLE_LIGATURES" value="true" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="80be8f" />
     <option name="BORDER_LINES_COLOR" value="666666" />
