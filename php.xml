@@ -5,4 +5,9 @@
   <component name="PhpCodeSniffer">
     <phpcs_settings_migrated />
   </component>
+  <component name="PhpInterpreters">
+    <interpreters>
+      <interpreter id="7b1507a4-f09b-4302-aa4f-cef17375531b" name="PHP CLI (7.3.3)" home="" debugger_id="php.debugger.XDebug" />
+    </interpreters>
+  </component>
 </application>
